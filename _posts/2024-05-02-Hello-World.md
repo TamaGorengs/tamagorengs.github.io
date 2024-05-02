@@ -5,7 +5,7 @@ categories: test blog
 tags: hack pentest     # TAG names should always be lowercase
 ---
 
-# [HTB - Devvortex](HTB - Devvortex "wikilink")
+# HTB - Devvortex
 
 ------------------------------------------------------------------------
 

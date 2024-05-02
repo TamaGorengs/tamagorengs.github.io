@@ -71,7 +71,7 @@ Here we found the version of the Joomla which is 4.2.6
 ![](/assets/devvortex/htb-devvortex-box-joomlavers.png)
 
 Let's check for any possible exploit regarding this version of Joomla.
-![](/assets/devvortex/htb-devvortex-box-joomla-cve.png")
+![](/assets/devvortex/htb-devvortex-box-joomla-cve.png)
 
 Let's try the POC by Acceis on CVE-2023-23752.
 ![](/assets/devvortex/htb-devvortex-box-acceis.png)

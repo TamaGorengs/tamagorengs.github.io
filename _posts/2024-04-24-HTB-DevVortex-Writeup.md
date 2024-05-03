@@ -1,8 +1,8 @@
 ---
 title: HTB Writeup - DevVortex
 date: 2024-04-24 02:32:33 +0800
-categories: hackthebox writeup
-tags: ctf     # TAG names should always be lowercase
+categories: writeup hackthebox 
+tags: ctf  
 ---
 
 

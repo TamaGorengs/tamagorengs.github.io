@@ -3,9 +3,9 @@ title: Tips Passing PNPT
 date: 2024-05-05 08:00:00 +0800
 categories: journal personal
 tags: study certification
+image: /assets/general/pass-pnpt.png
 ---
 
-![](/assets/general/pass-pnpt.png)
 
 Having purchased my PNPT Voucher for **over a year ago**, I was intended to actually took the exam by **2023** but I feel I wasn't prepared enough even though they gave you free retake. Also balancing my job as a **SOC Analyst**, where I work in shifts including nights and mornings, left me with limited free time. Despite this, I dedicated most of my available time to studying for the exam and after one year I finally took the leap and succeed in **passing** it!
 

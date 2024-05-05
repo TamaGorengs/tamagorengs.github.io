@@ -3,6 +3,7 @@ title: HTB Writeup - DevVortex
 date: 2024-04-24 02:32:33 +0800
 categories: writeup hackthebox 
 tags: ctf  
+image: /assets/general/devvortex.png
 ---
 
 

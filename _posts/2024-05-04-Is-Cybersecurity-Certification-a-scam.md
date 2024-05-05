@@ -1,11 +1,10 @@
 ---
 title: Is cybersecurity certification a scam ?
-date: 2024-05-05 08:00:00 +0800
+date: 2024-04-05 08:00:00 +0800
 categories: journal personal
 tags: study certification
+image: /assets/general/pnpt.png
 ---
-
-![](/assets/general/pnpt.png)
 
 ## Is it a scam ?
 

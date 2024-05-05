@@ -3,9 +3,8 @@ title: Why write cybersecurity blog
 date: 2024-05-03 08:00:00 +0800
 categories: journal personal
 tags: study   
+image: /assets/general/takenotes.png
 ---
-
-![](/assets/general/takenotes.png)
 
 ## 1. Develop writing skill
 

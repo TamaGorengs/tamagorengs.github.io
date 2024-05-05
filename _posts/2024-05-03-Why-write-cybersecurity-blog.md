@@ -17,7 +17,7 @@ By making your own blog, you have the freedom to write about anything. Don't lim
 
 When we want to remember about something, we write so that we won't forget about it. If you want to remember about what you've just learned, write about it. Don't just copy it directly, explain it in your own words. The best way to make sure you understand a certain topic is to be able to explain it as simple as possible. If you're able to do just that, that's mean you've achieve the understanding necessary on the topic.
 
-I've made a page using [BookStack](https://www.bookstackapp.com/) which is https://notes.tamagorengs.com/, where I published my notes. It's not that much, yet. But I will keep on building more and more. I know that people can google almost everything there is in my blog, but hey, I wrote all of it myself and I can also use it as my portfolio. Speaking about portfolio, brings me to my next point.
+I've made a page using [BookStack](https://www.bookstackapp.com/) which is [https://notes.tamagorengs.com/](https://notes.tamagorengs.com/), where I published my notes. It's not that much, yet. But I will keep on building more and more. I know that people can google almost everything there is in my blog, but hey, I wrote all of it myself and I can also use it as my portfolio. Speaking about portfolio, brings me to my next point.
 
 ## 3. Portfolio
 
